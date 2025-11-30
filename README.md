@@ -20,6 +20,6 @@
 - **Tools Used:** Visual Studio Code, GitHub  
 - **Concepts:** File handling, data structures, modular programming
 
-**Lipsa Pattanaik**  
-**B.Tech — Computer Science Engineering | ITER , SOA University**
-**WIPRO'S CAPSTONE PROJECT**
+# Lipsa Pattanaik
+## B.Tech — Computer Science Engineering | ITER , SOA University
+## WIPRO'S CAPSTONE PROJECT
